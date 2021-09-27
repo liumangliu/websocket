@@ -46,16 +46,7 @@ public class MsgController {
         return data.get("flg").toString();
     }
 
-//    @ApiOperation("发送消息")
-//    @GetMapping("testSend")
-//    public String testSend(String msg) {
-////        Map<String,Object> map=new HashMap<>();
-////        map.put("msg",msg);
-////        map.put("date", LocalDateTime.now().toString());
-////        int size = msgSendService.sendMsg(map);
-//        webSocketServerTest.sendToAll(msg);
-//        return "发送成功" + "test";
-//    }
+
 
 
 }
