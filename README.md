@@ -4,8 +4,7 @@
 
 # 本项目代码库
 
-* github: https://github.com/guangee/websocket
-* 私有gitlab: https://gitlab.coding-space.cn/demo/websocket
+* github: https://github.com/liumangliu/websocket
 
 # 应用场景举例
 
